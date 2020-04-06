@@ -1,4 +1,4 @@
-
+#This code calculates number of days between any two dates 
 DATE1=input("Enter the first date in dd/mm/yyyy format: ")
 DATE2=input("Enter the second date in dd/mm/yyyy format: ")
 date1=DATE1.split("/")
