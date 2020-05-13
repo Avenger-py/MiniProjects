@@ -1,3 +1,4 @@
+#Enter keywords of a youtube video in the dialogue box and you will be directed to youtube search reesults
 import webbrowser
 from tkinter import *
 yt_search = Tk()
